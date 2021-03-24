@@ -3,6 +3,3 @@ plugins:
     enabled: true
     channel: swiftlint-0-43
 
-excluded_patterns:
-  - FlappyBirdTests/**
-  - FlappyBird
